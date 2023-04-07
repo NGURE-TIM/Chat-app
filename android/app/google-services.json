@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103136356616",
+    "project_id": "flash-chat--2-45440",
+    "storage_bucket": "flash-chat--2-45440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103136356616:android:024cb6c65ad8b68f7d24bd",
+        "android_client_info": {
+          "package_name": "com.example.radaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103136356616-mi4i79lbum8b8r84h4b9fm0ef8u4ensf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6Bn2HNsz48-FwI9Dpv2mtknwRyBWAw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103136356616-mi4i79lbum8b8r84h4b9fm0ef8u4ensf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
